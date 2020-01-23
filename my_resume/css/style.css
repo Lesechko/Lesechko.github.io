@@ -106,7 +106,7 @@ header::after {
 
 
 .block {
-    margin-bottom: 24px;
+    margin-bottom: 20px;
     font-size: 12px;
 }
 
@@ -127,7 +127,7 @@ p {
 .experience__text {
     position: relative;
     padding-left: 10px;
-    margin-bottom: 15px;
+    margin-bottom: 11px;
 }
 
 
@@ -185,4 +185,9 @@ i {
     width: 45%;
     float: left;
     min-height: 90px;
+}
+
+.myWork i {
+    font-size: 3em;
+    margin-right: 25px;
 }
